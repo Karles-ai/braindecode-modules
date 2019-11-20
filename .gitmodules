@@ -1,0 +1,3 @@
+[submodule "features/brainfeatures"]
+	path = features/brainfeatures
+	url = https://github.com/TNTLFreiburg/brainfeatures
